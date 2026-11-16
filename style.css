@@ -1,0 +1,50 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f4f8;
+    margin: 30px;
+}
+
+h1 {
+    color: #243b64;
+    text-align: center;
+}
+
+h2 {
+    color: #345995;
+}
+
+section {
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+button {
+    background-color: #345995;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #243b64;
+}
+
+input, select {
+    padding: 8px;
+    margin: 5px;
+}
+
+#message {
+    color: red;
+}
+
+#recapitulatif {
+    white-space: pre-line;
+    font-weight: bold;
+    margin-top: 15px;
+}
